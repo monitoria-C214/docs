@@ -1,8 +1,3 @@
-
-<p align="center">  
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/docs">
-</p>
-
 <h4 align="center"> 
  Material de Aula - Monitoria de Engenharia de Software
 </h4>
